@@ -6,3 +6,5 @@ My nextcloud AIO backup script. Runs via cron job to backup my Nextcloud and upd
 ```
 
 To do a daily check to see if it's the next month. If it is, it'll backup Nextcloud AIO. If it's not, it'll continue.
+
+I know it's super hacky, and I wish there was a better (or at least simpler) way to do this. Ugh.
