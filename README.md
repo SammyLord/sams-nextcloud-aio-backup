@@ -1,4 +1,4 @@
-**The 'Hacky but Handy' Nextcloud AIO Backup Script Adventure**
+# The 'Hacky but Handy' Nextcloud AIO Backup Script Adventure
 
 Hey folks, Sammy Lord here, diving deep into the land of bash scripts, cron jobs, and that eternal quest for automation elegance—or in my case, the beautifully chaotic cousin: functional hackery.
 
