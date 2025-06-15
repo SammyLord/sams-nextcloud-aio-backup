@@ -9,7 +9,7 @@ So, what's cooking? Let me introduce you to my Nextcloud AIO backup script. Yes,
 Every month, like clockwork—or should I say, like *cronwork*—this script swings into action:
 
 ```bash
-0 0 * * * /home/sparky/backup-nextcloud.sh &
+0 0 * * * /path/to/your/backup-nextcloud.sh &
 ```
 
 This line? It’s the unsung hero, it runs the script that is checking daily if it’s time to shine (a.k.a. if 31 days have passed). If yes, it triggers a Nextcloud AIO backup. If not, it shrugs, sips its virtual coffee, and waits till tomorrow.
